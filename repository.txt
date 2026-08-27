@@ -1,1 +1,6 @@
 testeo uno
+
+Explicacion de cada comando///
+
+git status: este comando ayudo a revisar el estado actual del archivo y en que area esta
+
