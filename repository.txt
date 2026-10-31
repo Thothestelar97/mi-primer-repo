@@ -1,0 +1,9 @@
+testeo uno
+
+Explicacion de cada comando///
+
+git status: este comando ayudo a revisar el estado actual del archivo 
+y en que area esta, sin embargo ver dichos cambios hay que agregar un 
+git add, de esta forma para ver que modifiaciones se hicieron en el
+archivo, para agregar cambios en la pagina git hub.
+
